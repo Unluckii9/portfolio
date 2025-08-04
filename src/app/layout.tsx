@@ -3,7 +3,7 @@ import { ReactNode } from 'react'
 
 export const metadata = {
   title: 'Hello World!',
-  description: 'Développeur logiciel - Portfolio',
+  description: 'Développeur logiciel',
 }
 
 export default function RootLayout({ children }: { children: ReactNode }) {
